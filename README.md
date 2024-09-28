@@ -14,11 +14,11 @@ Copy code`<br>`
 git clone https://github.com/krishchaudhari/portfolio-website`<br>`
 Navigate into the directory:`<br>`
 #Copy code`<br>`
-cd portfolio-website`<br>`
-Open the index.html file in your browser.`<br>`
+cd portfolio-website`<br>` 
+Open the index.html file in your browser.<br>
 #📬 Contact Me`<br>`
-If you have any questions or want to connect, feel free to reach out:`<br>`
+If you have any questions or want to connect, feel free to reach out: <br>
 
-Email: krish.chaudhari@torontomu.ca.com`<br>`
-LinkedIn: www.linkedin.com/in/krishcc`<br>`
+Email: krish.chaudhari@torontomu.ca.com <br>
+LinkedIn: www.linkedin.com/in/krishcc
 
